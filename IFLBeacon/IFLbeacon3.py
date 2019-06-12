@@ -3,21 +3,6 @@ __author__ = 'Mim'
 # IFLbeacon
 # 06.07.18
 
-import Skype4Py
-import win32gui, win32con
-import win32com.client
-import win32ui
-import win32con
-from win32gui import GetWindowText, GetForegroundWindow
-import ctypes
-from _winreg import *
-import _winreg
-import os
-import sched, time
-import re
-import errno, os, _winreg
-import ctypes
-from ctypes import wintypes
 import power
 import wmi
 import requests
